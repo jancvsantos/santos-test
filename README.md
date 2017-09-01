@@ -1,2 +1,4 @@
-# santos-test
-INST377 Test
+# Jan Santos
+
+This is my repo. Suh dude
+Mmmmmmm
